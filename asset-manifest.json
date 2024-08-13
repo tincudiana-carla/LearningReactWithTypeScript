@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tincudiana-carla/LearningReactWithTypeScript.git/static/css/main.5dbcbe8a.css",
+    "main.js": "/tincudiana-carla/LearningReactWithTypeScript.git/static/js/main.bf570272.js",
+    "index.html": "/tincudiana-carla/LearningReactWithTypeScript.git/index.html",
+    "main.5dbcbe8a.css.map": "/tincudiana-carla/LearningReactWithTypeScript.git/static/css/main.5dbcbe8a.css.map",
+    "main.bf570272.js.map": "/tincudiana-carla/LearningReactWithTypeScript.git/static/js/main.bf570272.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dbcbe8a.css",
+    "static/js/main.bf570272.js"
+  ]
+}
